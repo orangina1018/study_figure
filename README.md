@@ -1,7 +1,7 @@
 # study-figure
 
 ## 目的
-10/12 10/19　の勉強会用
+[片山研究室](https://www.energylab.jp)の勉強会用
 
 
 
